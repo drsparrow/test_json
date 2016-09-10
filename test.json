@@ -1,0 +1,28 @@
+{
+  "object0": {
+    "numbers": [4, 8, 15, 16, 23, 42],
+    "strings": ["one", "two", "three"],
+    "booleans": [true, false]
+  },
+  "object1": {
+    "null": null,
+    "emtpyString": "",
+    "zero": 0
+  },
+  "object2": {
+    "level 1": {
+      "level 2": {
+        "level 3": {
+          "object": { "key": "value" },
+          "array": ["foo", "bar"]
+        }
+      }
+    }
+  },
+  "array1": [
+    "string", 1, { "key": "value" }, ["two", "elements"]
+  ],
+  "array0": [],
+  "string": "Hello world",
+  "number": 1
+}
